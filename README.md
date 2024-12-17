@@ -1,2 +1,3 @@
-# q-nas-enhanced-se
-This repository contains code for an enhanced Quantum-Inspired NAS approach integrating SE and CBAM modules. It aims to produce efficient, high-performing CNN architectures for medical image classification on MedMNIST, balancing accuracy and complexity.
+# Quantum-Inspired NAS with Attention-Based Search Spaces in Medical Applications
+
+This repository contains the code and experiments for the paper "Quantum-Inspired NAS with Attention-Based Search Spaces in Medical Applications". It implements an enhanced Quantum-Inspired Neural Architecture Search (Q-NAS) approach incorporating Squeeze-and-Excitation (SE) and Convolutional Block Attention Modules (CBAM) to achieve efficient, high-performing CNN models for medical image classification tasks using the MedMNIST datasets.
