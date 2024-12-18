@@ -125,3 +125,25 @@ If you use this code in your research, please cite the following paper:
     pages={YY-ZZ}
 }
 ```
+
+## Acknowledgments:
+
+This work was supported by the Brazilian agency **CNPq**.
+
+The original Quantum-Inspired NAS code was developed by:
+
+```bibtex
+@article{szwarcman2022quantum,
+  title={Quantum-inspired evolutionary algorithm applied to neural architecture search},
+  author={Szwarcman, Daniela and Civitarese, Daniel and Vellasco, Marley},
+  journal={Applied Soft Computing},
+  volume={120},
+  pages={108674},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
+The original code can be found at:
+
+[Q-NAS Repository](https://github.com/daniszw/qnas)
